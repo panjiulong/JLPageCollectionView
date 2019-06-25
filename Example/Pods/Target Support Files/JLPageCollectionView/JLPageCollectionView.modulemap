@@ -1,0 +1,6 @@
+framework module JLPageCollectionView {
+  umbrella header "JLPageCollectionView-umbrella.h"
+
+  export *
+  module * { export * }
+}

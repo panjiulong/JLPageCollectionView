@@ -1,4 +1,8 @@
+
+platform :ios, '9.0'
+
 use_frameworks!
+
 
 target 'JLPageCollectionView_Example' do
   pod 'JLPageCollectionView', :path => '../'
@@ -7,7 +11,7 @@ target 'JLPageCollectionView_Example' do
     inherit! :search_paths
 
     pod 'Quick', '~> 1.2.0'
-    pod 'Nimble', '~> 7.0.2'
+    pod 'Nimble', '7.2.0'
     pod 'FBSnapshotTestCase' , '~> 2.1.4'
     pod 'Nimble-Snapshots' , '~> 6.3.0'
   end

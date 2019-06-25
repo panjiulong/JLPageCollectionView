@@ -1,0 +1,6 @@
+framework module Pods_JLPageCollectionView_Example {
+  umbrella header "Pods-JLPageCollectionView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
