@@ -26,7 +26,7 @@ pod 'JLPageCollectionView'
 
 ## Author
 
-panjiulong, panjiulong@utimes.cc
+jiulongpan@gmail.com
 
 ## License
 
