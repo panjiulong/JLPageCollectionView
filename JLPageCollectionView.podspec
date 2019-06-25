@@ -22,7 +22,7 @@ JLPageCollectionView is a control that simulates WeChat emoticon keyboard. It ha
                        DESC
 
   s.homepage         = 'https://github.com/panjiulong/JLPageCollectionView'
-  s.screenshots     = 'https://github.com/panjiulong/JLPageCollectionView/blob/master/PEexg4zZch.gif'
+ #s.screenshots     = 'https://github.com/panjiulong/JLPageCollectionView/blob/master/PEexg4zZch.gif'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'panjiulong' => 'jiulongpan@gmail.com' }
   s.source           = { :git => 'https://github.com/panjiulong/JLPageCollectionView.git', :tag => s.version.to_s }
