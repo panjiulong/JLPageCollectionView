@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/JLPageCollectionView.svg?style=flat)](https://cocoapods.org/pods/JLPageCollectionView)
 [![Platform](https://img.shields.io/cocoapods/p/JLPageCollectionView.svg?style=flat)](https://cocoapods.org/pods/JLPageCollectionView)
 
+## ScreenShot
+
+<div align=center><img src="https://github.com/panjiulong/JLPageCollectionView/blob/master/PEexg4zZch.gif" width="375" alt="ScreenShot"/></div>
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +26,7 @@ pod 'JLPageCollectionView'
 
 ## Author
 
-panjiulong, panjiulong@utimes.cc
+jiulongpan@gmail.com
 
 ## License
 
