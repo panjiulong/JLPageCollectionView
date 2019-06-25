@@ -131,7 +131,7 @@ extension JLTitleView{
         var labelX : CGFloat = 0
         for (i,titleLabel) in titleLabels.enumerated() {
             if config.titleViewIsScrollEnable{
-                labelW = (titleLabel.text! as NSString).boundingRect(with: CGSize(width: CGFloat(MAXFLOAT), height: labelH), options: .usesLineFragmentOrigin, attributes: [NSAttributedStringKey.font : config.titleFont], context: nil).width
+                labelW = (titleLabel.text! as NSString).boundingRect(with: CGSize(width: CGFloat(MAXFLOAT), height: labelH), options: .usesLineFragmentOrigin, attributes: [NSAttributedString.Key.font : config.titleFont], context: nil).width
                 labelX =  i == 0 ? config.titleMargin : (config.titleMargin + titleLabels[i - 1].frame.maxX)
             }else{
                 labelX = labelW * CGFloat(i)

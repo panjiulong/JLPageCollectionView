@@ -55,7 +55,7 @@ class JLContentView: UIView {
 extension JLContentView{
     private func setupUI(){
         for childVc in childVcs {
-            parentVc.addChildViewController(childVc)
+            parentVc.addChild(childVc)
         }
         addSubview(collectionView)
     }

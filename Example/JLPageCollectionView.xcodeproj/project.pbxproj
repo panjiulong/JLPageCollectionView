@@ -46,7 +46,7 @@
 		A44155752C1BDD2FC17F7D27 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		AFF1042AC970FD2EBEB77492 /* Pods-JLPageCollectionView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JLPageCollectionView_Example.release.xcconfig"; path = "Target Support Files/Pods-JLPageCollectionView_Example/Pods-JLPageCollectionView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D6A5FFE54968CC7D0E1C59D4 /* Pods-JLPageCollectionView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JLPageCollectionView_Tests.debug.xcconfig"; path = "Target Support Files/Pods-JLPageCollectionView_Tests/Pods-JLPageCollectionView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		DA0E934388F5011B42E7BDE4 /* JLPageCollectionView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JLPageCollectionView.podspec; path = ../JLPageCollectionView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		DA0E934388F5011B42E7BDE4 /* JLPageCollectionView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JLPageCollectionView.podspec; path = ../JLPageCollectionView.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -508,7 +508,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -523,7 +523,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
